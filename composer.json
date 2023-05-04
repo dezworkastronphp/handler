@@ -1,11 +1,11 @@
 {
-    "name": "astronphp/handler",
+    "name": "dezworkastronphp/handler",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/astronphp/handler/issues",
-        "source": "https://github.com/astronphp/handler/"
+        "issues": "https://github.com/dezworkastronphp/handler/issues",
+        "source": "https://github.com/dezworkastronphp/handler/"
     },
     "config": {
         "sort-packages": true
