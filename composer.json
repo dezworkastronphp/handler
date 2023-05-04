@@ -1,0 +1,21 @@
+{
+    "name": "astronphp/handler",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/astronphp/handler/issues",
+        "source": "https://github.com/astronphp/handler/"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Astronphp\\Handler\\": [
+                "src/",
+                "tests/"
+            ]
+        }
+    }
+}
